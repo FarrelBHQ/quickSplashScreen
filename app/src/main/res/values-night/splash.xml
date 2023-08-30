@@ -3,6 +3,6 @@
     <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenIconBackgroundColor">#000000</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/ic_white_dragon</item>
-        <item name="postSplashScreenTheme">@style/Theme.AppCompat</item>
+        <item name="postSplashScreenTheme">@style/Theme.mySplashScreen</item>
     </style>
 </resources>
